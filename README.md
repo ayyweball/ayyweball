@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hey, I'm Aadi 👋
 
-<!--
-**ayyweball/ayyweball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student · Software Engineering · Backend
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in software engineering and
+building things that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently
+
+- 🔭 Working on software projects and experimenting with different technologies
+- 🌱 Learning **backend development, clean architecture, system design & scalable code**
+- 🧠 Strengthening my foundations in **DSA, databases & software engineering**
+- 🛠️ Worked with **JavaScript, Node.js, Python, FastAPI, React, Next.js & PostgreSQL**
+- 👯 Open to interesting projects, hackathons and collaborations
+
+## 💬 A little more
+
+- Ask me about **JavaScript, Python, APIs, databases or the projects I'm building**
+- 🎮 Fun fact: [Archit Kohli](https://github.com/Archit-Kohli) is not a good badminton player.
+
+---
+
+## 🛠️ Tech I've Worked With
+
+**Languages**
+
+`C++` `Python` `JavaScript` `TypeScript` `SQL`
+
+**Backend**
+
+`Node.js` `Express` `FastAPI`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Tailwind`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `SQLite`
+
+**Tools**
+
+`Git` `GitHub` `Docker`
+
+---
+
+## 🚀 Projects
+
+### UnnatE
+Government scheme discovery and recommendation platform for Indian MSMEs.
+
+`Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL`
+
+
+
+`JavaScript` `Node.js` `React` `MySQL`
+
+---
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,postgres,mysql,sqlite,git,github,docker," />
+</p>
