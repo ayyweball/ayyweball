@@ -42,7 +42,7 @@ building things that solve real problems.
 
 **Tools**
 
-`Git` `GitHub` `Docker`
+`Git` `GitHub` `Vercel`
 
 ---
 
