@@ -50,6 +50,7 @@ building things that solve real problems.
 
 ### UnnatE
 Government scheme discovery and recommendation platform for Indian MSMEs.
+[UnnatE](https://unnat33.vercel.app/)
 
 `Next.js` `TypeScript` `FastAPI` `Python` `PostgreSQL`
 
