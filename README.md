@@ -65,5 +65,5 @@ Government scheme discovery and recommendation platform for Indian MSMEs.
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,postgres,mysql,sqlite,git,github,docker," />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css,react,nextjs,nodejs,express,fastapi,postgres,mysql,sqlite,git,github," />
 </p>
